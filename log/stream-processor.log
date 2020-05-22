@@ -1,0 +1,1617 @@
+2020-05-22 14:00:24 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:00:24 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:00:24 ERROR AbstractCoordinator:382 - Attempt to join group  failed due to fatal error: The configured groupId is invalid
+2020-05-22 14:06:43 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:06:43 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:07:44 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2020-05-22 14:07:44 WARN  Utils:66 - Your hostname, wanghengdeMacBook-Pro.local resolves to a loopback address: 127.0.0.1; using 172.25.6.178 instead (on interface en0)
+2020-05-22 14:07:44 WARN  Utils:66 - Set SPARK_LOCAL_IP if you need to bind to another address
+2020-05-22 14:07:46 WARN  VideoStreamProcessor:42 - Output directory for saving processed images is set to out/. This is configured in processed.output.dir key of property file.
+2020-05-22 14:07:53 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:07:53 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=1
+2020-05-22 14:07:54 WARN  TaskSetManager:66 - Stage 9 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:07:55 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:07:55 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:07:52.33
+2020-05-22 14:07:55 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=10
+2020-05-22 14:07:57 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127673926.jpg
+2020-05-22 14:07:57 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127673926.jpg
+2020-05-22 14:07:57 WARN  TaskSetManager:66 - Stage 14 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:07:59 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:07:59 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:07:53.926
+2020-05-22 14:07:59 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=26
+2020-05-22 14:08:00 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127675729.jpg
+2020-05-22 14:08:00 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127675729.jpg
+2020-05-22 14:08:01 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127676782.jpg
+2020-05-22 14:08:01 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127676782.jpg
+2020-05-22 14:08:01 WARN  TaskSetManager:66 - Stage 19 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:08:03 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:08:03 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:07:57.608
+2020-05-22 14:08:03 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=26
+2020-05-22 14:08:04 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127679185.jpg
+2020-05-22 14:08:04 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127679185.jpg
+2020-05-22 14:08:04 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127680721.jpg
+2020-05-22 14:08:04 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127680721.jpg
+2020-05-22 14:08:04 WARN  TaskSetManager:66 - Stage 24 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:08:06 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:08:06 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:08:01.245
+2020-05-22 14:08:06 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=29
+2020-05-22 14:08:07 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127682256.jpg
+2020-05-22 14:08:07 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127682256.jpg
+2020-05-22 14:08:08 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127683958.jpg
+2020-05-22 14:08:08 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127683958.jpg
+2020-05-22 14:08:08 WARN  TaskSetManager:66 - Stage 29 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:08:09 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:08:09 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:08:04.921
+2020-05-22 14:08:09 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=13
+2020-05-22 14:08:10 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127686356.jpg
+2020-05-22 14:08:10 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127686356.jpg
+2020-05-22 14:08:10 WARN  TaskSetManager:66 - Stage 34 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:08:29 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:08:29 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:09:25 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:09:25 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:09:29 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:09:29 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:08:07.307
+2020-05-22 14:09:29 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 14:09:29 WARN  TaskSetManager:66 - Stage 39 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:09:30 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:09:30 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:09:28.353
+2020-05-22 14:09:30 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 14:09:30 WARN  TaskSetManager:66 - Stage 44 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:09:31 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:09:31 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:09:29.419
+2020-05-22 14:09:31 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 14:09:31 WARN  TaskSetManager:66 - Stage 49 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:09:32 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:09:32 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:09:30.172
+2020-05-22 14:09:32 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=12
+2020-05-22 14:09:33 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127771180.jpg
+2020-05-22 14:09:33 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127771180.jpg
+2020-05-22 14:09:33 WARN  TaskSetManager:66 - Stage 54 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:09:34 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:09:34 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:09:31.456
+2020-05-22 14:09:34 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=15
+2020-05-22 14:09:35 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127772212.jpg
+2020-05-22 14:09:35 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127772212.jpg
+2020-05-22 14:09:35 WARN  TaskSetManager:66 - Stage 59 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:09:37 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:09:37 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:09:33.063
+2020-05-22 14:09:37 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=29
+2020-05-22 14:09:37 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127773816.jpg
+2020-05-22 14:09:37 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127773816.jpg
+2020-05-22 14:09:38 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127774603.jpg
+2020-05-22 14:09:38 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127774603.jpg
+2020-05-22 14:09:38 WARN  TaskSetManager:66 - Stage 64 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:09:40 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:09:40 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:09:35.352
+2020-05-22 14:09:40 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=32
+2020-05-22 14:09:40 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127775985.jpg
+2020-05-22 14:09:40 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127775985.jpg
+2020-05-22 14:09:41 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127776570.jpg
+2020-05-22 14:09:41 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127776570.jpg
+2020-05-22 14:09:41 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127777760.jpg
+2020-05-22 14:09:41 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127777760.jpg
+2020-05-22 14:09:42 WARN  TaskSetManager:66 - Stage 69 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:09:42 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:09:42 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:09:38.031
+2020-05-22 14:09:42 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 14:09:42 WARN  TaskSetManager:66 - Stage 74 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:10:45 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:10:45 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:10:49 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:10:49 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:09:38.172
+2020-05-22 14:10:49 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 14:10:50 WARN  TaskSetManager:66 - Stage 79 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:10:50 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:10:50 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:10:48.947
+2020-05-22 14:10:50 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 14:10:50 WARN  TaskSetManager:66 - Stage 84 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:10:51 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:10:51 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:10:49.779
+2020-05-22 14:10:51 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 14:10:51 WARN  TaskSetManager:66 - Stage 89 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:10:52 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:10:52 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:10:50.604
+2020-05-22 14:10:52 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 14:10:52 WARN  TaskSetManager:66 - Stage 94 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:10:53 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:10:53 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:10:51.696
+2020-05-22 14:10:53 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=10
+2020-05-22 14:10:54 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127852565.jpg
+2020-05-22 14:10:54 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127852565.jpg
+2020-05-22 14:10:54 WARN  TaskSetManager:66 - Stage 99 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:10:55 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:10:55 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:10:52.565
+2020-05-22 14:10:55 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=11
+2020-05-22 14:10:55 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127853939.jpg
+2020-05-22 14:10:55 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127853939.jpg
+2020-05-22 14:10:55 WARN  TaskSetManager:66 - Stage 104 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:10:57 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:10:57 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:10:54.061
+2020-05-22 14:10:57 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=23
+2020-05-22 14:10:58 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127854875.jpg
+2020-05-22 14:10:58 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127854875.jpg
+2020-05-22 14:10:58 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127855675.jpg
+2020-05-22 14:10:58 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127855675.jpg
+2020-05-22 14:10:58 WARN  TaskSetManager:66 - Stage 109 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:11:00 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:11:00 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:10:55.855
+2020-05-22 14:11:00 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=31
+2020-05-22 14:11:00 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127856657.jpg
+2020-05-22 14:11:00 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127856657.jpg
+2020-05-22 14:11:01 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127857740.jpg
+2020-05-22 14:11:01 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127857740.jpg
+2020-05-22 14:11:01 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590127858316.jpg
+2020-05-22 14:11:01 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590127858316.jpg
+2020-05-22 14:11:02 WARN  TaskSetManager:66 - Stage 114 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:11:02 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:11:03 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:10:58.41
+2020-05-22 14:11:03 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=9
+2020-05-22 14:11:03 WARN  TaskSetManager:66 - Stage 119 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:20:18 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:20:18 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:20:29 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:20:29 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:10:59.537
+2020-05-22 14:20:29 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 14:20:29 WARN  TaskSetManager:66 - Stage 124 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:20:30 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:20:30 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:20:28.745
+2020-05-22 14:20:30 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=9
+2020-05-22 14:20:30 WARN  TaskSetManager:66 - Stage 129 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:20:31 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:20:31 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:20:29.629
+2020-05-22 14:20:31 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 14:20:31 WARN  TaskSetManager:66 - Stage 134 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:20:32 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:20:32 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:20:30.465
+2020-05-22 14:20:32 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=12
+2020-05-22 14:20:33 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128431381.jpg
+2020-05-22 14:20:33 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128431381.jpg
+2020-05-22 14:20:33 WARN  TaskSetManager:66 - Stage 139 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:20:34 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:20:34 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:20:31.665
+2020-05-22 14:20:34 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=15
+2020-05-22 14:20:35 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128432562.jpg
+2020-05-22 14:20:35 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128432562.jpg
+2020-05-22 14:20:35 WARN  TaskSetManager:66 - Stage 144 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:20:37 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:20:37 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:20:33.374
+2020-05-22 14:20:37 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=26
+2020-05-22 14:20:37 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128434086.jpg
+2020-05-22 14:20:37 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128434086.jpg
+2020-05-22 14:20:38 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128434996.jpg
+2020-05-22 14:20:38 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128434996.jpg
+2020-05-22 14:20:38 WARN  TaskSetManager:66 - Stage 149 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:20:40 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:20:40 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:20:35.418
+2020-05-22 14:20:40 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=32
+2020-05-22 14:20:40 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128436101.jpg
+2020-05-22 14:20:40 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128436101.jpg
+2020-05-22 14:20:41 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128436710.jpg
+2020-05-22 14:20:41 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128436710.jpg
+2020-05-22 14:20:41 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128437762.jpg
+2020-05-22 14:20:41 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128437762.jpg
+2020-05-22 14:20:42 WARN  TaskSetManager:66 - Stage 154 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:20:42 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:20:42 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:20:38.04
+2020-05-22 14:20:42 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=4
+2020-05-22 14:20:42 WARN  TaskSetManager:66 - Stage 159 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:23:28 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:23:28 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:23:41 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:23:41 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:23:47 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:23:47 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:20:38.457
+2020-05-22 14:23:47 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 14:23:47 WARN  TaskSetManager:66 - Stage 164 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:23:48 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:23:48 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:23:46.498
+2020-05-22 14:23:48 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 14:23:48 WARN  TaskSetManager:66 - Stage 169 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:23:49 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:23:49 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:23:47.286
+2020-05-22 14:23:49 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 14:23:49 WARN  TaskSetManager:66 - Stage 174 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:23:50 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:23:50 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:23:47.935
+2020-05-22 14:23:50 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=9
+2020-05-22 14:23:50 WARN  TaskSetManager:66 - Stage 179 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:23:51 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:23:51 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:23:49.118
+2020-05-22 14:23:51 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=13
+2020-05-22 14:23:51 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128629695.jpg
+2020-05-22 14:23:51 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128629695.jpg
+2020-05-22 14:23:51 WARN  TaskSetManager:66 - Stage 184 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:23:53 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:23:53 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:23:50.032
+2020-05-22 14:23:53 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=15
+2020-05-22 14:23:53 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128631389.jpg
+2020-05-22 14:23:53 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128631389.jpg
+2020-05-22 14:23:53 WARN  TaskSetManager:66 - Stage 189 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:23:55 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:23:55 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:23:51.782
+2020-05-22 14:23:55 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=27
+2020-05-22 14:23:56 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128632300.jpg
+2020-05-22 14:23:56 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128632300.jpg
+2020-05-22 14:23:56 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128632979.jpg
+2020-05-22 14:23:56 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128632979.jpg
+2020-05-22 14:23:56 WARN  TaskSetManager:66 - Stage 194 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:23:58 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:23:58 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:23:53.574
+2020-05-22 14:23:58 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=27
+2020-05-22 14:23:59 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128634206.jpg
+2020-05-22 14:23:59 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128634206.jpg
+2020-05-22 14:23:59 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128634838.jpg
+2020-05-22 14:23:59 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128634838.jpg
+2020-05-22 14:23:59 WARN  TaskSetManager:66 - Stage 199 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:26:18 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:26:18 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:26:18 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128428745.jpg
+2020-05-22 14:26:18 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128428978.jpg
+2020-05-22 14:26:18 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429067.jpg
+2020-05-22 14:26:18 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429141.jpg
+2020-05-22 14:26:18 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429217.jpg
+2020-05-22 14:26:18 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429283.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429349.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429448.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429629.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429772.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429086.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128429953.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128430055.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128430177.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128430268.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128430465.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128430664.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128430077.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128430882.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128430991.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431088.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431172.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431232.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431003.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431381.jpg
+2020-05-22 14:26:19 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431483.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431665.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431781.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431861.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431923.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128431988.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128432007.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128432177.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128432284.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128432409.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128432562.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128432822.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128432982.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433117.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433249.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433374.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433488.jpg
+2020-05-22 14:26:20 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433567.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433644.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433717.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433794.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433873.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128433095.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434018.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434086.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434183.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434311.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434366.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434423.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434475.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434617.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434745.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434083.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434918.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128434996.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435051.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435114.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435192.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435267.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435338.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435418.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435496.jpg
+2020-05-22 14:26:21 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435568.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435638.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435703.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435838.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435901.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128435967.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436031.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436101.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436168.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436242.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436307.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436372.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436438.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436511.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436566.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436608.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436651.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436071.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436807.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436899.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128436987.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128437079.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128437151.jpg
+2020-05-22 14:26:22 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128437214.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128437031.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128437462.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128437604.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128437762.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128437901.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128438004.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128438183.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128438326.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128438457.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128626498.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128626761.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128626857.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128626939.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627016.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627116.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627286.jpg
+2020-05-22 14:26:23 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627404.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627049.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627568.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627652.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627742.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627829.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128627935.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128628144.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128628316.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128628422.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128628518.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128628614.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128628077.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128628969.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629118.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629217.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629028.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629341.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629396.jpg
+2020-05-22 14:26:24 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629456.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629526.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629589.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629641.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629695.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629769.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128629087.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128630032.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128630279.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128630401.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128630517.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128630625.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128630739.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128630841.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631136.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631306.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631389.jpg
+2020-05-22 14:26:25 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631469.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631546.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631624.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631702.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631782.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631869.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128631944.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632018.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632076.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632121.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632166.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632211.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632255.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632003.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632345.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632039.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632044.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632492.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632543.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632602.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632661.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632733.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632855.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128632979.jpg
+2020-05-22 14:26:26 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633101.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633172.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633025.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633323.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633416.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633494.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633574.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633658.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633734.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633809.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633883.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128633961.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634027.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634094.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634156.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634206.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634255.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634305.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634359.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634413.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634046.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634511.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634056.jpg
+2020-05-22 14:26:27 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634061.jpg
+2020-05-22 14:26:28 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634007.jpg
+2020-05-22 14:26:28 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128634838.jpg
+2020-05-22 14:26:28 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128635009.jpg
+2020-05-22 14:26:28 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128635298.jpg
+2020-05-22 14:26:28 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128635446.jpg
+2020-05-22 14:26:28 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128635608.jpg
+2020-05-22 14:26:28 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128635773.jpg
+2020-05-22 14:26:28 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128635092.jpg
+2020-05-22 14:26:28 WARN  KafkaUtils:95 - Saving images to out/vid-01-T-1590128636067.jpg
+2020-05-22 14:27:19 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:27:19 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:27:41 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:27:41 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:27:46 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:27:46 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:23:56.067
+2020-05-22 14:27:46 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 14:27:47 WARN  TaskSetManager:66 - Stage 204 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:27:47 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:27:47 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:27:46.242
+2020-05-22 14:27:47 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 14:27:47 WARN  TaskSetManager:66 - Stage 209 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:27:48 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:27:48 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:27:47.005
+2020-05-22 14:27:48 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 14:27:48 WARN  TaskSetManager:66 - Stage 214 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:27:49 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:27:49 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:27:47.665
+2020-05-22 14:27:49 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 14:27:49 WARN  TaskSetManager:66 - Stage 219 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:27:50 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:27:50 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:27:48.464
+2020-05-22 14:27:50 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=11
+2020-05-22 14:27:51 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128869461.jpg
+2020-05-22 14:27:51 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128869461.jpg
+2020-05-22 14:27:51 WARN  TaskSetManager:66 - Stage 224 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:27:52 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:27:52 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:27:49.572
+2020-05-22 14:27:52 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=12
+2020-05-22 14:27:53 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128870843.jpg
+2020-05-22 14:27:53 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128870843.jpg
+2020-05-22 14:27:53 WARN  TaskSetManager:66 - Stage 229 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:27:54 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:27:54 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:27:51.116
+2020-05-22 14:27:54 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=23
+2020-05-22 14:27:55 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128872075.jpg
+2020-05-22 14:27:55 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128872075.jpg
+2020-05-22 14:27:55 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128872929.jpg
+2020-05-22 14:27:55 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128872929.jpg
+2020-05-22 14:27:55 WARN  TaskSetManager:66 - Stage 234 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:27:57 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:27:57 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:27:53.137
+2020-05-22 14:27:57 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=31
+2020-05-22 14:27:58 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128873855.jpg
+2020-05-22 14:27:58 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128873855.jpg
+2020-05-22 14:27:58 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128874871.jpg
+2020-05-22 14:27:58 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128874871.jpg
+2020-05-22 14:27:59 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590128875431.jpg
+2020-05-22 14:27:59 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590128875431.jpg
+2020-05-22 14:27:59 WARN  TaskSetManager:66 - Stage 239 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:28:00 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:28:00 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:27:55.529
+2020-05-22 14:28:00 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=9
+2020-05-22 14:28:00 WARN  TaskSetManager:66 - Stage 244 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:28:15 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128866242.jpg
+2020-05-22 14:28:15 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128866452.jpg
+2020-05-22 14:28:15 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128866523.jpg
+2020-05-22 14:28:15 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128866006.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128866697.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128866856.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128867005.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128867126.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128867207.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128867285.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128867385.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128867497.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128867665.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128867868.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128867986.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128868085.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128868195.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128868286.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128868464.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128868675.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128868794.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128868913.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128868986.jpg
+2020-05-22 14:28:16 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869071.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869145.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869225.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869337.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869461.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869572.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869656.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869722.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869808.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128869959.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128870067.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128870213.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128870493.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128870677.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128870843.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128870982.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128871116.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128871026.jpg
+2020-05-22 14:28:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128871366.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128871453.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128871592.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128871707.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128871786.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128871904.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872006.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872075.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872171.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872369.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872501.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872059.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872065.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872704.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872761.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872818.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872873.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872929.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128872987.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873047.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873137.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873213.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873291.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873365.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873446.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873526.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873601.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873689.jpg
+2020-05-22 14:28:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873784.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873855.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128873964.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874083.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874016.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874234.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874322.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874482.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874622.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874071.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874079.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874871.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874938.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128874991.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875043.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875096.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875173.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875223.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875272.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875323.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875376.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875431.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875529.jpg
+2020-05-22 14:28:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875678.jpg
+2020-05-22 14:28:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875082.jpg
+2020-05-22 14:28:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128875992.jpg
+2020-05-22 14:28:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128876159.jpg
+2020-05-22 14:28:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128876285.jpg
+2020-05-22 14:28:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128876426.jpg
+2020-05-22 14:28:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128876569.jpg
+2020-05-22 14:28:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590128876691.jpg
+2020-05-22 14:34:15 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 14:34:15 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 14:34:24 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129264244.jpg
+2020-05-22 14:34:24 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129264465.jpg
+2020-05-22 14:34:24 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129264625.jpg
+2020-05-22 14:34:25 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129264743.jpg
+2020-05-22 14:34:25 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:25 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:27:56.691
+2020-05-22 14:34:25 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 14:34:25 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129264866.jpg
+2020-05-22 14:34:25 WARN  TaskSetManager:66 - Stage 249 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:25 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129265028.jpg
+2020-05-22 14:34:25 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129265258.jpg
+2020-05-22 14:34:25 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129265374.jpg
+2020-05-22 14:34:25 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129265484.jpg
+2020-05-22 14:34:25 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:25 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:24.244
+2020-05-22 14:34:25 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 14:34:26 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129265587.jpg
+2020-05-22 14:34:26 WARN  TaskSetManager:66 - Stage 254 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:26 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129265804.jpg
+2020-05-22 14:34:26 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129266006.jpg
+2020-05-22 14:34:26 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:26 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:25.028
+2020-05-22 14:34:26 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 14:34:26 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129266227.jpg
+2020-05-22 14:34:26 WARN  TaskSetManager:66 - Stage 259 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:26 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129266368.jpg
+2020-05-22 14:34:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129266007.jpg
+2020-05-22 14:34:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129266905.jpg
+2020-05-22 14:34:27 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:27 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:25.587
+2020-05-22 14:34:27 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 14:34:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129267066.jpg
+2020-05-22 14:34:27 WARN  TaskSetManager:66 - Stage 264 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129267026.jpg
+2020-05-22 14:34:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129267615.jpg
+2020-05-22 14:34:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129267796.jpg
+2020-05-22 14:34:28 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:28 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:26.368
+2020-05-22 14:34:28 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 14:34:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129267096.jpg
+2020-05-22 14:34:28 WARN  TaskSetManager:66 - Stage 269 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129268323.jpg
+2020-05-22 14:34:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129268508.jpg
+2020-05-22 14:34:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129268619.jpg
+2020-05-22 14:34:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129268719.jpg
+2020-05-22 14:34:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129268807.jpg
+2020-05-22 14:34:29 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:29 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:27.26
+2020-05-22 14:34:29 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 14:34:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129268894.jpg
+2020-05-22 14:34:29 WARN  TaskSetManager:66 - Stage 274 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129269079.jpg
+2020-05-22 14:34:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129269264.jpg
+2020-05-22 14:34:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129269386.jpg
+2020-05-22 14:34:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129269512.jpg
+2020-05-22 14:34:30 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:30 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:28.323
+2020-05-22 14:34:30 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 14:34:30 WARN  TaskSetManager:66 - Stage 279 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:30 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129269638.jpg
+2020-05-22 14:34:30 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129270097.jpg
+2020-05-22 14:34:30 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129270321.jpg
+2020-05-22 14:34:30 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:30 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:29.079
+2020-05-22 14:34:30 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 14:34:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129270484.jpg
+2020-05-22 14:34:31 WARN  TaskSetManager:66 - Stage 284 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129270683.jpg
+2020-05-22 14:34:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129271005.jpg
+2020-05-22 14:34:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129271312.jpg
+2020-05-22 14:34:31 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:31 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:29.638
+2020-05-22 14:34:31 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 14:34:31 WARN  TaskSetManager:66 - Stage 289 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129271048.jpg
+2020-05-22 14:34:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129271077.jpg
+2020-05-22 14:34:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129272053.jpg
+2020-05-22 14:34:32 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:32 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:30.683
+2020-05-22 14:34:32 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=4
+2020-05-22 14:34:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129272223.jpg
+2020-05-22 14:34:32 WARN  TaskSetManager:66 - Stage 294 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129272372.jpg
+2020-05-22 14:34:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129272587.jpg
+2020-05-22 14:34:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129272744.jpg
+2020-05-22 14:34:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129272866.jpg
+2020-05-22 14:34:33 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129272967.jpg
+2020-05-22 14:34:33 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:31.48
+2020-05-22 14:34:33 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 14:34:33 WARN  TaskSetManager:66 - Stage 299 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129273109.jpg
+2020-05-22 14:34:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129273353.jpg
+2020-05-22 14:34:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129273526.jpg
+2020-05-22 14:34:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129273652.jpg
+2020-05-22 14:34:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129273753.jpg
+2020-05-22 14:34:34 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:34 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:32.372
+2020-05-22 14:34:34 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 14:34:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129273866.jpg
+2020-05-22 14:34:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129273998.jpg
+2020-05-22 14:34:34 WARN  TaskSetManager:66 - Stage 304 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129274194.jpg
+2020-05-22 14:34:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129274305.jpg
+2020-05-22 14:34:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129274397.jpg
+2020-05-22 14:34:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129274478.jpg
+2020-05-22 14:34:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129274562.jpg
+2020-05-22 14:34:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129274636.jpg
+2020-05-22 14:34:34 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:34 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:33.109
+2020-05-22 14:34:34 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 14:34:35 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129274772.jpg
+2020-05-22 14:34:35 WARN  TaskSetManager:66 - Stage 309 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:35 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129274935.jpg
+2020-05-22 14:34:35 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129275147.jpg
+2020-05-22 14:34:35 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129275265.jpg
+2020-05-22 14:34:35 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129275375.jpg
+2020-05-22 14:34:35 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:35 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:34.194
+2020-05-22 14:34:35 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 14:34:35 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129275479.jpg
+2020-05-22 14:34:36 WARN  TaskSetManager:66 - Stage 314 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:36 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129275671.jpg
+2020-05-22 14:34:36 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129275965.jpg
+2020-05-22 14:34:36 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129276095.jpg
+2020-05-22 14:34:36 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129276203.jpg
+2020-05-22 14:34:36 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129276302.jpg
+2020-05-22 14:34:36 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:36 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:34.935
+2020-05-22 14:34:36 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 14:34:36 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129276428.jpg
+2020-05-22 14:34:36 WARN  TaskSetManager:66 - Stage 319 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:36 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129276679.jpg
+2020-05-22 14:34:37 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129276856.jpg
+2020-05-22 14:34:37 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129276098.jpg
+2020-05-22 14:34:37 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129277001.jpg
+2020-05-22 14:34:37 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:37 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:35.671
+2020-05-22 14:34:37 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 14:34:37 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129277217.jpg
+2020-05-22 14:34:37 WARN  TaskSetManager:66 - Stage 324 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:37 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129277472.jpg
+2020-05-22 14:34:37 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129277687.jpg
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129277812.jpg
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129277925.jpg
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278027.jpg
+2020-05-22 14:34:38 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278109.jpg
+2020-05-22 14:34:38 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:36.428
+2020-05-22 14:34:38 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278271.jpg
+2020-05-22 14:34:38 WARN  TaskSetManager:66 - Stage 329 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278451.jpg
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278585.jpg
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278664.jpg
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278741.jpg
+2020-05-22 14:34:38 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278818.jpg
+2020-05-22 14:34:39 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278892.jpg
+2020-05-22 14:34:39 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:39 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:37.472
+2020-05-22 14:34:39 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 14:34:39 WARN  TaskSetManager:66 - Stage 334 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:39 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129278974.jpg
+2020-05-22 14:34:39 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129279244.jpg
+2020-05-22 14:34:39 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129279494.jpg
+2020-05-22 14:34:39 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:39 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:38.451
+2020-05-22 14:34:39 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 14:34:40 WARN  TaskSetManager:66 - Stage 339 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:40 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129279068.jpg
+2020-05-22 14:34:40 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129279099.jpg
+2020-05-22 14:34:40 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:40 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:38.974
+2020-05-22 14:34:40 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=4
+2020-05-22 14:34:40 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129280247.jpg
+2020-05-22 14:34:40 WARN  TaskSetManager:66 - Stage 344 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:41 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129280431.jpg
+2020-05-22 14:34:41 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129280846.jpg
+2020-05-22 14:34:41 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:41 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:39.68
+2020-05-22 14:34:41 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=3
+2020-05-22 14:34:41 WARN  TaskSetManager:66 - Stage 349 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:41 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129281043.jpg
+2020-05-22 14:34:41 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590129281362.jpg
+2020-05-22 14:34:42 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:42 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:40.247
+2020-05-22 14:34:42 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=4
+2020-05-22 14:34:42 WARN  TaskSetManager:66 - Stage 354 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 14:34:42 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 14:34:42 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:41.043
+2020-05-22 14:34:42 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 14:34:43 WARN  TaskSetManager:66 - Stage 359 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:06:26 WARN  ConsumerCoordinator:476 - Auto offset commit failed for group cameraId: Commit offsets failed with retriable exception. You should retry committing offsets.
+2020-05-22 15:06:26 WARN  ConsumerCoordinator:476 - Auto offset commit failed for group cameraId: Commit offsets failed with retriable exception. You should retry committing offsets.
+2020-05-22 15:06:26 WARN  ConsumerCoordinator:476 - Auto offset commit failed for group cameraId: Commit offsets failed with retriable exception. You should retry committing offsets.
+2020-05-22 15:06:26 WARN  ConsumerCoordinator:476 - Auto offset commit failed for group cameraId: Commit offsets failed with retriable exception. You should retry committing offsets.
+2020-05-22 15:06:26 WARN  ConsumerCoordinator:476 - Auto offset commit failed for group cameraId: Commit offsets failed with retriable exception. You should retry committing offsets.
+2020-05-22 15:53:06 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 15:53:06 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 15:53:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133996992.jpg
+2020-05-22 15:53:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133997248.jpg
+2020-05-22 15:53:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133997042.jpg
+2020-05-22 15:53:17 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133997603.jpg
+2020-05-22 15:53:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133997784.jpg
+2020-05-22 15:53:18 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:18 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 14:34:41.362
+2020-05-22 15:53:18 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 15:53:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133998033.jpg
+2020-05-22 15:53:18 WARN  TaskSetManager:66 - Stage 364 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133998204.jpg
+2020-05-22 15:53:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133998449.jpg
+2020-05-22 15:53:18 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133998656.jpg
+2020-05-22 15:53:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133998816.jpg
+2020-05-22 15:53:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133998943.jpg
+2020-05-22 15:53:19 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:19 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:16.992
+2020-05-22 15:53:19 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 15:53:19 WARN  TaskSetManager:66 - Stage 369 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:19 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133999117.jpg
+2020-05-22 15:53:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133999484.jpg
+2020-05-22 15:53:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590133999952.jpg
+2020-05-22 15:53:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134000174.jpg
+2020-05-22 15:53:20 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:20 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:18.204
+2020-05-22 15:53:20 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 15:53:20 WARN  TaskSetManager:66 - Stage 374 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:20 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134000358.jpg
+2020-05-22 15:53:21 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134000667.jpg
+2020-05-22 15:53:21 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134000933.jpg
+2020-05-22 15:53:21 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134001137.jpg
+2020-05-22 15:53:21 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:21 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:19.117
+2020-05-22 15:53:21 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 15:53:21 WARN  TaskSetManager:66 - Stage 379 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:21 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134001326.jpg
+2020-05-22 15:53:22 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134001669.jpg
+2020-05-22 15:53:22 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134001916.jpg
+2020-05-22 15:53:22 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134002021.jpg
+2020-05-22 15:53:22 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134002012.jpg
+2020-05-22 15:53:22 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:22 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134002218.jpg
+2020-05-22 15:53:22 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:20.358
+2020-05-22 15:53:22 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 15:53:22 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134002329.jpg
+2020-05-22 15:53:22 WARN  TaskSetManager:66 - Stage 384 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:22 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134002057.jpg
+2020-05-22 15:53:22 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134002741.jpg
+2020-05-22 15:53:23 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134002085.jpg
+2020-05-22 15:53:23 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134002951.jpg
+2020-05-22 15:53:23 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:23 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:21.326
+2020-05-22 15:53:23 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 15:53:23 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134003076.jpg
+2020-05-22 15:53:23 WARN  TaskSetManager:66 - Stage 389 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:23 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134003241.jpg
+2020-05-22 15:53:24 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134003665.jpg
+2020-05-22 15:53:24 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:24 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:22.57
+2020-05-22 15:53:24 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 15:53:24 WARN  TaskSetManager:66 - Stage 394 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:24 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134003891.jpg
+2020-05-22 15:53:24 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134004223.jpg
+2020-05-22 15:53:24 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:24 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:23.076
+2020-05-22 15:53:24 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=4
+2020-05-22 15:53:25 WARN  TaskSetManager:66 - Stage 399 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:25 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134004545.jpg
+2020-05-22 15:53:25 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134004804.jpg
+2020-05-22 15:53:25 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:25 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:23.891
+2020-05-22 15:53:25 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=3
+2020-05-22 15:53:25 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134005209.jpg
+2020-05-22 15:53:25 WARN  TaskSetManager:66 - Stage 404 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:26 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134005567.jpg
+2020-05-22 15:53:26 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:26 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:24.545
+2020-05-22 15:53:26 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=3
+2020-05-22 15:53:26 WARN  TaskSetManager:66 - Stage 409 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:26 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134005934.jpg
+2020-05-22 15:53:26 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134006274.jpg
+2020-05-22 15:53:26 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134006651.jpg
+2020-05-22 15:53:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134006791.jpg
+2020-05-22 15:53:27 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:27 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:25.209
+2020-05-22 15:53:27 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=3
+2020-05-22 15:53:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134006925.jpg
+2020-05-22 15:53:27 WARN  TaskSetManager:66 - Stage 414 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134007098.jpg
+2020-05-22 15:53:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134007034.jpg
+2020-05-22 15:53:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134007455.jpg
+2020-05-22 15:53:27 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134007056.jpg
+2020-05-22 15:53:27 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:27 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:25.934
+2020-05-22 15:53:27 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 15:53:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134007677.jpg
+2020-05-22 15:53:28 WARN  TaskSetManager:66 - Stage 419 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134007898.jpg
+2020-05-22 15:53:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134008087.jpg
+2020-05-22 15:53:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134008195.jpg
+2020-05-22 15:53:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134008273.jpg
+2020-05-22 15:53:28 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134008348.jpg
+2020-05-22 15:53:28 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:27.098
+2020-05-22 15:53:28 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 15:53:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134008046.jpg
+2020-05-22 15:53:28 WARN  TaskSetManager:66 - Stage 424 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134008633.jpg
+2020-05-22 15:53:28 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134008756.jpg
+2020-05-22 15:53:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134008853.jpg
+2020-05-22 15:53:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134008933.jpg
+2020-05-22 15:53:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134009007.jpg
+2020-05-22 15:53:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134009084.jpg
+2020-05-22 15:53:29 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:29 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:27.677
+2020-05-22 15:53:29 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 15:53:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134009195.jpg
+2020-05-22 15:53:29 WARN  TaskSetManager:66 - Stage 429 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134009436.jpg
+2020-05-22 15:53:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134009601.jpg
+2020-05-22 15:53:29 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134009718.jpg
+2020-05-22 15:53:30 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134009823.jpg
+2020-05-22 15:53:30 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:30 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:28.633
+2020-05-22 15:53:30 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 15:53:30 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134009916.jpg
+2020-05-22 15:53:30 WARN  TaskSetManager:66 - Stage 434 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:30 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134010096.jpg
+2020-05-22 15:53:30 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134010402.jpg
+2020-05-22 15:53:30 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134010518.jpg
+2020-05-22 15:53:30 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134010622.jpg
+2020-05-22 15:53:31 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:31 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:29.436
+2020-05-22 15:53:31 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 15:53:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134010721.jpg
+2020-05-22 15:53:31 WARN  TaskSetManager:66 - Stage 439 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134010895.jpg
+2020-05-22 15:53:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134011095.jpg
+2020-05-22 15:53:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134011268.jpg
+2020-05-22 15:53:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134011389.jpg
+2020-05-22 15:53:31 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134011494.jpg
+2020-05-22 15:53:31 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:31 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:30.096
+2020-05-22 15:53:31 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134011606.jpg
+2020-05-22 15:53:32 WARN  TaskSetManager:66 - Stage 444 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134011849.jpg
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012069.jpg
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012018.jpg
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012273.jpg
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012034.jpg
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012409.jpg
+2020-05-22 15:53:32 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:32 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:30.895
+2020-05-22 15:53:32 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012521.jpg
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012068.jpg
+2020-05-22 15:53:32 WARN  TaskSetManager:66 - Stage 449 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:32 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012812.jpg
+2020-05-22 15:53:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012916.jpg
+2020-05-22 15:53:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134012991.jpg
+2020-05-22 15:53:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134013066.jpg
+2020-05-22 15:53:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134013136.jpg
+2020-05-22 15:53:33 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:33 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:31.849
+2020-05-22 15:53:33 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=9
+2020-05-22 15:53:33 WARN  TaskSetManager:66 - Stage 454 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:33 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134013247.jpg
+2020-05-22 15:53:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134013644.jpg
+2020-05-22 15:53:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134013888.jpg
+2020-05-22 15:53:34 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:34 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:32.812
+2020-05-22 15:53:34 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 15:53:34 WARN  TaskSetManager:66 - Stage 459 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134014085.jpg
+2020-05-22 15:53:34 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134014487.jpg
+2020-05-22 15:53:35 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134014785.jpg
+2020-05-22 15:53:35 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:35 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:33.247
+2020-05-22 15:53:35 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=4
+2020-05-22 15:53:35 WARN  TaskSetManager:66 - Stage 464 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:35 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134014987.jpg
+2020-05-22 15:53:35 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134015024.jpg
+2020-05-22 15:53:36 WARN  KafkaUtils:96 - Saving images to out/vid-01-T-1590134015711.jpg
+2020-05-22 15:53:36 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:36 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:34.085
+2020-05-22 15:53:36 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=4
+2020-05-22 15:53:36 WARN  TaskSetManager:66 - Stage 469 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:53:37 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:53:37 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:34.987
+2020-05-22 15:53:37 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=3
+2020-05-22 15:53:37 WARN  TaskSetManager:66 - Stage 474 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:54:09 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 15:54:09 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 15:54:12 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:54:12 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:53:35.711
+2020-05-22 15:54:12 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 15:54:12 WARN  TaskSetManager:66 - Stage 479 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:54:13 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:54:13 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:54:12.064
+2020-05-22 15:54:13 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 15:54:13 WARN  TaskSetManager:66 - Stage 484 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:54:14 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:54:14 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:54:12.738
+2020-05-22 15:54:14 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 15:54:14 WARN  TaskSetManager:66 - Stage 489 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:54:15 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:54:15 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:54:13.455
+2020-05-22 15:54:15 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 15:54:15 WARN  TaskSetManager:66 - Stage 494 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:54:16 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:54:16 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:54:14.483
+2020-05-22 15:54:16 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=13
+2020-05-22 15:54:17 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134055098.jpg
+2020-05-22 15:54:17 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134055098.jpg
+2020-05-22 15:54:17 WARN  TaskSetManager:66 - Stage 499 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:54:18 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:54:18 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:54:15.304
+2020-05-22 15:54:18 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=14
+2020-05-22 15:54:19 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134056914.jpg
+2020-05-22 15:54:19 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134056914.jpg
+2020-05-22 15:54:19 WARN  TaskSetManager:66 - Stage 504 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:54:20 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:54:20 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:54:17.269
+2020-05-22 15:54:20 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=28
+2020-05-22 15:54:21 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134057898.jpg
+2020-05-22 15:54:21 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134057898.jpg
+2020-05-22 15:54:22 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134058484.jpg
+2020-05-22 15:54:22 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134058484.jpg
+2020-05-22 15:54:22 WARN  TaskSetManager:66 - Stage 509 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:54:24 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:54:24 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:54:19.188
+2020-05-22 15:54:24 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=29
+2020-05-22 15:54:24 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134059846.jpg
+2020-05-22 15:54:24 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134059846.jpg
+2020-05-22 15:54:25 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134060340.jpg
+2020-05-22 15:54:25 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134060340.jpg
+2020-05-22 15:54:25 WARN  TaskSetManager:66 - Stage 514 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:54:32 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134052064.jpg
+2020-05-22 15:54:32 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134052295.jpg
+2020-05-22 15:54:32 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134052377.jpg
+2020-05-22 15:54:32 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134052458.jpg
+2020-05-22 15:54:32 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134052598.jpg
+2020-05-22 15:54:32 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134052738.jpg
+2020-05-22 15:54:32 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134052891.jpg
+2020-05-22 15:54:32 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134052994.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134053008.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134053158.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134053233.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134053309.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134053455.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134053664.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134053825.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134053933.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054051.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054145.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054273.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054483.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054639.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054725.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054784.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054836.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054889.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054941.jpg
+2020-05-22 15:54:33 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134054993.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134055045.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134055098.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134055015.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134055209.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134055304.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134055552.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134055792.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134055927.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134056058.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134056192.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134056332.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134056535.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134056786.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134056914.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057002.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057001.jpg
+2020-05-22 15:54:34 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057182.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057269.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057361.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057441.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057517.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057585.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057659.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057738.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057797.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057842.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057898.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057945.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134057992.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058005.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058106.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058156.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058205.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058025.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058302.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058387.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058484.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058592.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058705.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058821.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058892.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134058967.jpg
+2020-05-22 15:54:35 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059038.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059111.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059188.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059288.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059366.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059442.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059515.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059582.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059647.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059713.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059781.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059846.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059901.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059948.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134059998.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060054.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060104.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060149.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060199.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060025.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060297.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060034.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060421.jpg
+2020-05-22 15:54:36 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060578.jpg
+2020-05-22 15:54:37 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134060854.jpg
+2020-05-22 15:54:37 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134061000.jpg
+2020-05-22 15:54:37 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134061154.jpg
+2020-05-22 15:54:37 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134061354.jpg
+2020-05-22 15:54:37 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134061588.jpg
+2020-05-22 15:54:37 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134061748.jpg
+2020-05-22 15:54:37 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134061902.jpg
+2020-05-22 15:55:29 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:55:29 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:54:21.902
+2020-05-22 15:55:29 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 15:55:29 WARN  TaskSetManager:66 - Stage 519 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:55:30 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:55:30 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:55:28.518
+2020-05-22 15:55:30 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 15:55:30 WARN  TaskSetManager:66 - Stage 524 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:55:30 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:55:30 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:55:29.285
+2020-05-22 15:55:30 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 15:55:31 WARN  TaskSetManager:66 - Stage 529 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:55:31 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:55:31 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:55:30.022
+2020-05-22 15:55:31 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 15:55:31 WARN  TaskSetManager:66 - Stage 534 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:55:32 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:55:32 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:55:30.946
+2020-05-22 15:55:32 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=11
+2020-05-22 15:55:33 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134131538.jpg
+2020-05-22 15:55:33 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134131538.jpg
+2020-05-22 15:55:33 WARN  TaskSetManager:66 - Stage 539 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:55:34 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:55:35 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:55:31.671
+2020-05-22 15:55:35 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=14
+2020-05-22 15:55:35 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134133071.jpg
+2020-05-22 15:55:35 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134133071.jpg
+2020-05-22 15:55:35 WARN  TaskSetManager:66 - Stage 544 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:55:37 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:55:37 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:55:33.507
+2020-05-22 15:55:37 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=30
+2020-05-22 15:55:38 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134134185.jpg
+2020-05-22 15:55:38 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134134185.jpg
+2020-05-22 15:55:38 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134134717.jpg
+2020-05-22 15:55:38 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134134717.jpg
+2020-05-22 15:55:39 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134135650.jpg
+2020-05-22 15:55:39 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134135650.jpg
+2020-05-22 15:55:39 WARN  TaskSetManager:66 - Stage 549 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:55:41 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:55:41 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:55:35.65
+2020-05-22 15:55:41 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=28
+2020-05-22 15:55:41 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134136341.jpg
+2020-05-22 15:55:41 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134136341.jpg
+2020-05-22 15:55:42 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134136844.jpg
+2020-05-22 15:55:42 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134136844.jpg
+2020-05-22 15:55:42 WARN  TaskSetManager:66 - Stage 554 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:55:59 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 15:55:59 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 15:55:59 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134128518.jpg
+2020-05-22 15:55:59 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134128723.jpg
+2020-05-22 15:55:59 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134128799.jpg
+2020-05-22 15:55:59 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134128879.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134128963.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134129079.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134129285.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134129419.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134129506.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134129587.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134129665.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134129743.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134129831.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134130022.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134130213.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134130322.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134130423.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134130513.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134130601.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134130072.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134130946.jpg
+2020-05-22 15:56:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131076.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131138.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131199.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131254.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131319.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131379.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131043.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131482.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131538.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131671.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134131864.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134132022.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134132142.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134132251.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134132364.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134132479.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134132752.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134132093.jpg
+2020-05-22 15:56:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133071.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133203.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133323.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133407.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133507.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133591.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133673.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133752.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133083.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133909.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134133988.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134064.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134129.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134185.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134024.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134298.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134353.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134398.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134443.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134049.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134055.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134598.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134065.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134717.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134819.jpg
+2020-05-22 15:56:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134134968.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135073.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135157.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135234.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135315.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135394.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135047.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135556.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135065.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135731.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135822.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135901.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134135098.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136054.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136012.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136019.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136276.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136341.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136387.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136043.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136473.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136526.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136576.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136621.jpg
+2020-05-22 15:56:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136664.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136713.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136763.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136844.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134136985.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134137263.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134137458.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134137609.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134137757.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134137901.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134138063.jpg
+2020-05-22 15:56:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134138203.jpg
+2020-05-22 15:57:08 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 15:57:08 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 15:57:13 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:57:13 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:55:38.203
+2020-05-22 15:57:13 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 15:57:13 WARN  TaskSetManager:66 - Stage 559 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:57:14 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:57:14 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:57:12.648
+2020-05-22 15:57:14 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 15:57:14 WARN  TaskSetManager:66 - Stage 564 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:57:15 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:57:15 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:57:13.404
+2020-05-22 15:57:15 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=7
+2020-05-22 15:57:15 WARN  TaskSetManager:66 - Stage 569 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:57:16 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:57:16 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:57:14.032
+2020-05-22 15:57:16 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 15:57:16 WARN  TaskSetManager:66 - Stage 574 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:57:17 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:57:17 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:57:15.061
+2020-05-22 15:57:17 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=12
+2020-05-22 15:57:18 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134235985.jpg
+2020-05-22 15:57:18 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134235985.jpg
+2020-05-22 15:57:18 WARN  TaskSetManager:66 - Stage 579 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:57:19 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:57:19 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:57:16.266
+2020-05-22 15:57:19 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=12
+2020-05-22 15:57:20 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134237741.jpg
+2020-05-22 15:57:20 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134237741.jpg
+2020-05-22 15:57:20 WARN  TaskSetManager:66 - Stage 584 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:57:21 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:57:21 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:57:17.988
+2020-05-22 15:57:21 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=25
+2020-05-22 15:57:22 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134238877.jpg
+2020-05-22 15:57:22 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134238877.jpg
+2020-05-22 15:57:22 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134239590.jpg
+2020-05-22 15:57:22 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134239590.jpg
+2020-05-22 15:57:22 WARN  TaskSetManager:66 - Stage 589 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:57:24 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:57:24 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:57:19.955
+2020-05-22 15:57:24 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=30
+2020-05-22 15:57:24 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134240694.jpg
+2020-05-22 15:57:25 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134240694.jpg
+2020-05-22 15:57:25 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134241589.jpg
+2020-05-22 15:57:25 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134241589.jpg
+2020-05-22 15:57:26 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134242426.jpg
+2020-05-22 15:57:26 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134242426.jpg
+2020-05-22 15:57:26 WARN  TaskSetManager:66 - Stage 594 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:57:26 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 15:57:26 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:57:22.426
+2020-05-22 15:57:26 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 15:57:26 WARN  TaskSetManager:66 - Stage 599 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134232648.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134232088.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134232967.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134233046.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134233143.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134233253.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134233404.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134233551.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134233064.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134233717.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134233792.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134233932.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134234032.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134234283.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134234448.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134234055.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134234641.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134234746.jpg
+2020-05-22 15:57:27 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134234886.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235061.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235325.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235412.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235476.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235597.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235658.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235782.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235844.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235923.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134235985.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134236104.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134236266.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134236421.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134236549.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134236681.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134236811.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134237021.jpg
+2020-05-22 15:57:28 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134237311.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134237483.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134237612.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134237741.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134237884.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134237988.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238086.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238017.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238252.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238377.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238481.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238608.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238711.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238785.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238877.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134238938.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239005.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239051.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239155.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239263.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239351.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239427.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239048.jpg
+2020-05-22 15:57:29 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239533.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239059.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239655.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239073.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239803.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239875.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134239955.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240031.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240103.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240175.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240273.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240342.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240449.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240541.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240622.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240694.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240781.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240088.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134240968.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241079.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241197.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241304.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241396.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241487.jpg
+2020-05-22 15:57:30 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241539.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241589.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241641.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241692.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241744.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241797.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241854.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134241908.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134242001.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134242147.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134242283.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134242426.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134242572.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134242715.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134242843.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134242998.jpg
+2020-05-22 15:57:31 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134243127.jpg
+2020-05-22 16:00:45 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 16:00:45 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
+2020-05-22 16:00:52 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134451094.jpg
+2020-05-22 16:00:52 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:00:52 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 15:57:23.127
+2020-05-22 16:00:52 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 16:00:52 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134451038.jpg
+2020-05-22 16:00:52 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134451546.jpg
+2020-05-22 16:00:52 WARN  TaskSetManager:66 - Stage 604 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:00:52 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134451079.jpg
+2020-05-22 16:00:52 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134452077.jpg
+2020-05-22 16:00:52 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134452337.jpg
+2020-05-22 16:00:52 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134452483.jpg
+2020-05-22 16:00:53 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134452603.jpg
+2020-05-22 16:00:53 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134452859.jpg
+2020-05-22 16:00:53 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:00:53 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:00:51.094
+2020-05-22 16:00:53 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134453067.jpg
+2020-05-22 16:00:53 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 16:00:53 WARN  TaskSetManager:66 - Stage 609 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:00:53 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134453231.jpg
+2020-05-22 16:00:53 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134453556.jpg
+2020-05-22 16:00:54 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134453781.jpg
+2020-05-22 16:00:54 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134453992.jpg
+2020-05-22 16:00:54 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:00:54 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:00:52.337
+2020-05-22 16:00:54 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 16:00:54 WARN  TaskSetManager:66 - Stage 614 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:00:54 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134454221.jpg
+2020-05-22 16:00:55 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134454572.jpg
+2020-05-22 16:00:55 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134454945.jpg
+2020-05-22 16:00:55 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134455179.jpg
+2020-05-22 16:00:55 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:00:55 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:00:53.231
+2020-05-22 16:00:55 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 16:00:56 WARN  TaskSetManager:66 - Stage 619 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:00:56 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134455448.jpg
+2020-05-22 16:00:56 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134455863.jpg
+2020-05-22 16:00:56 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134456014.jpg
+2020-05-22 16:00:56 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134456331.jpg
+2020-05-22 16:00:56 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134456513.jpg
+2020-05-22 16:00:57 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134456813.jpg
+2020-05-22 16:00:57 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134456888.jpg
+2020-05-22 16:00:57 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:00:57 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:00:54.221
+2020-05-22 16:00:57 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 16:00:57 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134456968.jpg
+2020-05-22 16:00:57 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134457207.jpg
+2020-05-22 16:00:57 WARN  TaskSetManager:66 - Stage 624 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:00:57 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134457472.jpg
+2020-05-22 16:00:57 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134457635.jpg
+2020-05-22 16:00:58 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134457772.jpg
+2020-05-22 16:00:58 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134457899.jpg
+2020-05-22 16:00:58 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:00:58 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:00:55.448
+2020-05-22 16:00:58 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134458097.jpg
+2020-05-22 16:00:59 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=10
+2020-05-22 16:00:59 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134458428.jpg
+2020-05-22 16:00:59 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134459145.jpg
+2020-05-22 16:00:59 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134457472.jpg
+2020-05-22 16:00:59 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134457472.jpg
+2020-05-22 16:00:59 WARN  TaskSetManager:66 - Stage 629 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:00:59 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134459441.jpg
+2020-05-22 16:01:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134459763.jpg
+2020-05-22 16:01:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134460024.jpg
+2020-05-22 16:01:00 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:00 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:00:57.472
+2020-05-22 16:01:00 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 16:01:00 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134460249.jpg
+2020-05-22 16:01:01 WARN  TaskSetManager:66 - Stage 634 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:01:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134460498.jpg
+2020-05-22 16:01:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134460987.jpg
+2020-05-22 16:01:01 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134461209.jpg
+2020-05-22 16:01:01 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:01 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:00:59.441
+2020-05-22 16:01:01 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 16:01:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134461516.jpg
+2020-05-22 16:01:02 WARN  TaskSetManager:66 - Stage 639 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:01:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134461773.jpg
+2020-05-22 16:01:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134462008.jpg
+2020-05-22 16:01:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134462246.jpg
+2020-05-22 16:01:02 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134462039.jpg
+2020-05-22 16:01:02 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:02 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:01:00.498
+2020-05-22 16:01:02 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=5
+2020-05-22 16:01:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134462055.jpg
+2020-05-22 16:01:03 WARN  TaskSetManager:66 - Stage 644 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:01:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134462783.jpg
+2020-05-22 16:01:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134463104.jpg
+2020-05-22 16:01:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134463299.jpg
+2020-05-22 16:01:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134463487.jpg
+2020-05-22 16:01:03 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134463634.jpg
+2020-05-22 16:01:04 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:04 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:01:01.773
+2020-05-22 16:01:04 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=6
+2020-05-22 16:01:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134463748.jpg
+2020-05-22 16:01:04 WARN  TaskSetManager:66 - Stage 649 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:01:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134463989.jpg
+2020-05-22 16:01:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134464154.jpg
+2020-05-22 16:01:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134464273.jpg
+2020-05-22 16:01:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134464373.jpg
+2020-05-22 16:01:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134464047.jpg
+2020-05-22 16:01:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134464575.jpg
+2020-05-22 16:01:04 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134464694.jpg
+2020-05-22 16:01:05 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:05 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:01:02.783
+2020-05-22 16:01:05 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 16:01:05 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134464804.jpg
+2020-05-22 16:01:05 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134465017.jpg
+2020-05-22 16:01:05 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134465269.jpg
+2020-05-22 16:01:05 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134465396.jpg
+2020-05-22 16:01:05 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134465584.jpg
+2020-05-22 16:01:06 WARN  TaskSetManager:66 - Stage 654 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:01:06 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134465812.jpg
+2020-05-22 16:01:06 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134465997.jpg
+2020-05-22 16:01:06 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134466016.jpg
+2020-05-22 16:01:06 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134466302.jpg
+2020-05-22 16:01:06 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134466435.jpg
+2020-05-22 16:01:06 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134466579.jpg
+2020-05-22 16:01:07 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134466741.jpg
+2020-05-22 16:01:07 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:07 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:01:04.154
+2020-05-22 16:01:07 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=12
+2020-05-22 16:01:07 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134466909.jpg
+2020-05-22 16:01:07 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134467097.jpg
+2020-05-22 16:01:07 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134467479.jpg
+2020-05-22 16:01:07 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134467634.jpg
+2020-05-22 16:01:08 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134467787.jpg
+2020-05-22 16:01:08 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134465396.jpg
+2020-05-22 16:01:08 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134465396.jpg
+2020-05-22 16:01:08 WARN  TaskSetManager:66 - Stage 659 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:01:08 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134467952.jpg
+2020-05-22 16:01:08 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134468143.jpg
+2020-05-22 16:01:08 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134468311.jpg
+2020-05-22 16:01:08 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134468464.jpg
+2020-05-22 16:01:08 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134468621.jpg
+2020-05-22 16:01:08 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134468738.jpg
+2020-05-22 16:01:09 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134468866.jpg
+2020-05-22 16:01:09 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134468994.jpg
+2020-05-22 16:01:09 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:09 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134469011.jpg
+2020-05-22 16:01:09 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:01:05.812
+2020-05-22 16:01:09 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=13
+2020-05-22 16:01:09 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134469311.jpg
+2020-05-22 16:01:09 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134469458.jpg
+2020-05-22 16:01:09 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134469601.jpg
+2020-05-22 16:01:09 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134469695.jpg
+2020-05-22 16:01:10 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134469795.jpg
+2020-05-22 16:01:10 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134467479.jpg
+2020-05-22 16:01:10 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134467479.jpg
+2020-05-22 16:01:10 WARN  TaskSetManager:66 - Stage 664 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:01:10 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134469096.jpg
+2020-05-22 16:01:10 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134470251.jpg
+2020-05-22 16:01:11 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134470517.jpg
+2020-05-22 16:01:11 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134470772.jpg
+2020-05-22 16:01:11 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:11 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:01:07.952
+2020-05-22 16:01:11 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=15
+2020-05-22 16:01:11 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134471115.jpg
+2020-05-22 16:01:12 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134471519.jpg
+2020-05-22 16:01:12 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134471848.jpg
+2020-05-22 16:01:12 WARN  ImageProcessor:98 - Saving images to out/vid-01-T-1590134469311.jpg
+2020-05-22 16:01:12 WARN  ImageProcessor:104 - Saving classification result to out/vid-01-T-1590134469311.jpg
+2020-05-22 16:01:12 WARN  TaskSetManager:66 - Stage 669 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:01:12 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134472111.jpg
+2020-05-22 16:01:12 WARN  KafkaUtils:97 - Saving images to out/vid-01-T-1590134472385.jpg
+2020-05-22 16:01:13 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:13 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:01:09.96
+2020-05-22 16:01:13 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=8
+2020-05-22 16:01:13 WARN  TaskSetManager:66 - Stage 674 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:01:14 WARN  VideoStreamProcessor:82 - CameraId=vid-01 PartitionId=120
+2020-05-22 16:01:14 WARN  ImageProcessor:60 - cameraId=vid-01 previous processed timestamp=2020-05-22 16:01:12.111
+2020-05-22 16:01:14 WARN  ImageProcessor:66 - cameraId=vid-01 total frames=2
+2020-05-22 16:01:14 WARN  TaskSetManager:66 - Stage 679 contains a task of very large size (1206 KB). The maximum recommended task size is 100 KB.
+2020-05-22 16:10:53 WARN  ConsumerConfig:186 - The configuration kafka.max.partition.fetch.bytes = 2097152 was supplied but isn't a known config.
+2020-05-22 16:10:53 WARN  ConsumerConfig:186 - The configuration kafka.max.poll.records = 500 was supplied but isn't a known config.
