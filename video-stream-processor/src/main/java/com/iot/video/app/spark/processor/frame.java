@@ -33,12 +33,29 @@ public class frame extends JFrame implements ActionListener {
     private static DefaultTableModel model;
     private static JTable ListTable;
     private static JScrollPane Jpane;
+    private static JLabel TextData;
+    public static JLabel TextTopic;
+    private static JTextField textData;
+    private static JTextField textTopic;
 
     public frame() {
         setTitle("可视化工具");
         // 新建面板
         panel = new JPanel();
         panel.setLayout(null);
+
+        TextData = new JLabel("数据源:");
+        TextData.setFont(new Font("宋体", Font.PLAIN, 16));
+        TextTopic = new JLabel("kafka主题:");
+        TextTopic.setFont(new Font("宋体", Font.PLAIN, 16));
+
+        textData = new JTextField();
+        textData.setFont(new Font("宋体", Font.PLAIN, 16));
+        textData.setText("localhost:9092");
+        textTopic = new JTextField();
+        textTopic.setFont(new Font("宋体", Font.PLAIN, 16));
+        textTopic.setText("video-stream-event");
+
         ShowButton = new JButton("显示");
         ShowButton.setFont(new Font("宋体", Font.PLAIN, 16));
         StartButton = new JButton("开始");
@@ -65,13 +82,23 @@ public class frame extends JFrame implements ActionListener {
             }
         };
 
+
+        TextData.setBounds(20, 40, 80, 30);
+        TextTopic.setBounds(20, 80, 80, 30);
+
+
+        textData.setBounds(120, 40, 150, 30);
+        textTopic.setBounds(120, 80, 150, 30);
+
+
         ShowButton.setBounds(20, 180, 80, 30);
         StopButton.setBounds(150, 180, 80, 30);
         StartButton.setBounds(410, 180, 80, 30);
 
         CleanButton.setBounds(280, 180, 80, 30);
-        TextLabel.setBounds(40, 250, 200, 30);
         ListTable.setBounds(20, 300, 300, 200);
+
+
         Jpane = new JScrollPane(ListTable);
         Jpane.setBounds(20, 300, 300, 200);
         panel.add(ShowButton);
@@ -80,6 +107,11 @@ public class frame extends JFrame implements ActionListener {
         panel.add(StartButton);
         panel.add(TextLabel);
         panel.add(Jpane);
+        panel.add(TextData);
+        panel.add(TextTopic);
+        panel.add(TextLabel);
+        panel.add(textData);
+        panel.add(textTopic);
 
         ShowButton.addActionListener(this);
         StopButton.addActionListener(this);
@@ -103,7 +135,7 @@ public class frame extends JFrame implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         //开始按钮
         if (e.getSource().equals(StartButton)) {
-            KafkaRunnalble kafkaRunnalble = new KafkaRunnalble(model);
+            KafkaRunnalble kafkaRunnalble = new KafkaRunnalble(model, textData.getText(), textTopic.getText());
             new Thread(kafkaRunnalble).start();
             System.out.println("连接成功");
         }
@@ -130,10 +162,6 @@ public class frame extends JFrame implements ActionListener {
         }
     }
 
-    //连接kafka
-    private void getConnection() {
-        KafkaUtils.getMsgFromKafka(model);
-    }
 
     //关闭kafka
     private void closeConnection() {

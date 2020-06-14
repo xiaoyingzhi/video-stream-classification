@@ -12,13 +12,17 @@ import javax.swing.table.DefaultTableModel;
 public class KafkaRunnalble implements Runnable {
 
     private DefaultTableModel model;
+    private String server;
+    private String topic;
 
-    public KafkaRunnalble(DefaultTableModel model) {
+    public KafkaRunnalble(DefaultTableModel model, String server, String topic) {
         this.model = model;
+        this.server = server;
+        this.topic = topic;
     }
 
     @Override
     public void run() {
-        KafkaUtils.getMsgFromKafka(model);
+        KafkaUtils.getMsgFromKafka(model, server, topic);
     }
 }
